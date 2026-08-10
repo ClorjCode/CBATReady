@@ -1,0 +1,11 @@
+Model Information:
+* title:	Corsair Plane
+* source:	https://sketchfab.com/3d-models/corsair-plane-e711389c942b4a4489f901cf345abad7
+* author:	G. (https://sketchfab.com/gunn24)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Corsair Plane" (https://sketchfab.com/3d-models/corsair-plane-e711389c942b4a4489f901cf345abad7) by G. (https://sketchfab.com/gunn24) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
